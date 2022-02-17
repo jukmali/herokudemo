@@ -1,23 +1,17 @@
 {
-  "name": "mydemo",
+  "name": "herokudemo",
   "version": "1.0.0",
-  "description": "Demonstrate node application",
-  "engines": {
-    "node": "16.x"
-  },
+  "description": "Heroku demo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "keywords": [
-    "require",
-    "node",
+    "Heroku",
+    "nodejs",
     "demo"
   ],
-  "author": "Jukka",
-  "license": "ISC",
-  "dependencies": {
-    "request": "^2.88.2"
-  }
+  "author": "Jukka Malinen",
+  "license": "ISC"
 }
